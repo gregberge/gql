@@ -5,6 +5,7 @@ notifications:
 node_js:
   - '9'
   - '8'
+  - '10'
 script:
   - yarn run test
   - yarn run build
